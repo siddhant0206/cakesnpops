@@ -1,0 +1,99 @@
+html{
+    background-color: #FFE4E1;
+}
+h1{
+    color: #9F0D7F;
+    background-color: #9F0D7F;
+}
+.header{
+    position:relative;
+    padding-top: 5px;
+    min-width: 1000px;
+    max-width: 5000px;
+    z-index: 1;
+    background-color: #9F0D7F;
+    margin: zero auto;
+}
+.logo{
+    padding-left: 20px;
+}
+.about{
+    position:absolute;
+    padding: 60px;
+    padding-left: 50px;
+    font-size: 25px;
+    text-decoration: none;
+    color: aliceblue;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.products{
+    position:absolute;
+    padding: 60px;
+    padding-left: 150px;
+    font-size: 25px;
+    text-decoration: none;
+    color: aliceblue;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.reviews{
+    position:absolute;
+    padding: 60px;
+    padding-left: 285px;
+    font-size: 25px;
+    text-decoration: none;
+    color: aliceblue;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.instalogo{
+    position: absolute;
+    padding: 60px;
+    padding-left: 1000px;
+    padding-bottom: 64px;
+}
+.flogo{
+    position: absolute;
+    margin: 10px;
+    margin-left: 1050px;
+    margin-top: 59px;
+    
+}
+.themedcakes{
+    margin: 10px;
+    border: 10px solid #F79BD3;
+    margin-left: 1px;
+}
+.themedtext{
+    position: absolute;
+    top: 90%;
+    left: 9%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+.regularcakes{
+    margin: 10px;
+    border: 10px solid #F79BD3;
+    margin-left: 1px;
+}
+.regulartext{
+    position: absolute;
+    top: 90%;
+    left: 43%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+
+}
+.otherproducts{
+
+    position: absolute;
+    margin: 10px;
+    margin-left: 200px;
+    border: 10px solid #F79BD3;
+    margin-left: 1px;
+}
+.snacks{
+    position: absolute;
+    top: 90%;
+    left: 80%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
